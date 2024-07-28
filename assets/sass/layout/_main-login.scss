@@ -1,0 +1,51 @@
+/* style Login.html */
+/* Main login */
+.main__login {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    text-align: center;
+    border-bottom: 1px solid #cccccc;
+    padding-bottom: 500px;
+  }
+  
+  .main-login__container {
+    display: inline-grid;
+    grid-template-columns: 100%;
+    justify-items: center;
+    width: 40%;
+    height: 300px;
+  }
+  
+  .main-login__input--size {
+    width: 62%;
+    min-width: 300px;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin: 10px 0px;
+    padding-left: 10px;
+  }
+  
+  .main-login__btn {
+    width: 100%;
+    min-width: 300px;
+    height: 50px;
+    border-radius: 8px;
+    margin: 0px 0px;
+    background: #729e2e;
+    align-content: center;
+  }
+  
+  .main-login__btn--white {
+    width: 64%;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 700;
+    transition: transform 0.2s ease;
+  } 
+  
+  .main-login__btn--white:hover {
+    transform: scale(1.02);
+  }

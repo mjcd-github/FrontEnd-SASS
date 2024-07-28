@@ -1,0 +1,23 @@
+//Aside popular index.html
+.popular {
+    display: inline-flex;
+    height: auto;
+    border-bottom: 1px solid #808080;
+    justify-content: center;
+  }
+  .popular__title {
+    text-align: left;
+    font-weight: 700;
+    margin-left: 100px;
+    padding: 50px 0px;
+  }
+  .popular__contenedor {
+    display: inline-flex;
+    width: 70%;
+  }
+  .popular__row {
+    display: block;
+    width: 60%;
+    height: auto;
+    text-align: center;
+  }

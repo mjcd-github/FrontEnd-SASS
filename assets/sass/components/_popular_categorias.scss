@@ -1,0 +1,57 @@
+/* ASIDE CATEGORIAS INDEX */
+.popular__categorias {
+  display: flex;
+  width: 37%;
+  justify-content: center;
+}
+
+.popular-categorias__container {
+  width: 50%;
+}
+.popular-categorias__title {
+  text-align: left;
+  font-weight: 700;
+  padding: 50px 0px;
+}
+.popular-categorias__image {
+  width: 60px;
+  vertical-align: middle;
+  margin-left: 10px;
+}
+.popular-container {
+  display: inline-flex;
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 24px;
+  margin: 17px 0px;
+  border-radius: 10px;
+  align-items: center;
+  width: 250px;
+  height: 70px;
+}
+.popular-container__p--align {
+  width: 90%;
+  margin-right: 10px;
+  text-align: right;
+}
+.popular-container__html--color {
+  background: #e93e30;
+}
+.popular-container__js--color {
+  background: #f7e018;
+}
+.popular-container__css--color {
+  background: #299ed5;
+}
+.popular-container__react--color {
+  background: #292c33;
+}
+.popular-container__vue--color {
+  background: #67c770;
+}
+.popular-container__bootstrap--color {
+  background: #563d7c;
+}
+.popular-categorias__links {
+  text-decoration: none;
+}

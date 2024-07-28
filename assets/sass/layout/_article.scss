@@ -1,0 +1,17 @@
+// article index
+.article {
+  text-align: center;
+  border-bottom: 1px solid #808080;
+}
+
+.article__title {
+  text-align: left;
+  font-weight: 700;
+  margin-left: 350px;
+  padding: 50px 0px;
+}
+
+.article__row {
+  display: inline-flex;
+  text-align: center;
+}

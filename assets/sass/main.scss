@@ -1,0 +1,22 @@
+//base
+@import "base/base";
+@import "base/media";
+
+//Layout
+@import "layout/header";
+@import "layout/article";
+@import "layout/aside";
+@import "layout/section";
+@import "layout/footer";
+@import "layout/main-post";
+@import "layout/section-post";
+@import "layout/main-registro";
+@import "layout/main-login";
+
+//Components
+@import "components/article-card";
+@import "components/article-aside";
+@import "components/popular-card";
+@import "components/popular_categorias";
+@import "components/relacionados-post";
+

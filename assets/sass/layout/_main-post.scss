@@ -1,0 +1,30 @@
+/* MAIN Post*/
+.main {
+    display: flex;
+    justify-content: center;
+  }
+  .main__contenedor {
+    display: block;
+    width: 60%;
+    padding: 15px;
+    margin-top: 10px;
+    background: #d6d1d1;
+    border-radius: 10px;
+  }
+
+  .main__logo {
+    text-align: center;
+    margin: 10px 10px;
+  }
+  .main__logo--border {
+    border-radius: 15px;
+    max-width: 100%;
+    margin: 40px 0px;
+  }
+  
+  .main__article {
+    width: 90%;
+  }
+  .main__parrafo {
+    width: 90%;
+  }
